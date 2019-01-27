@@ -98,7 +98,6 @@ Okay, now given the knowledge of how We could use <strong>variables</strong>, he
 
 1) Given a = 3 and b = 2, perform a simple addition in the print function to get the output 5 shown.
 2)    
-    a = "First String"
-    b = "Second String"
+    GIVEN <strong>a = "First String"</strong> AND <strong>b = "Second String"</strong>
 
 Given the above variables, swap the position in a way that when using the print function for a, it will print "Second String" and a print function for b, it will print "First String". You are not allowed to change the values ASSIGNED to the variables.
