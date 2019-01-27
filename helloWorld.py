@@ -1,2 +1,4 @@
-print("Hello!")
-print(3)
+a = 3
+b = 2
+
+print(a + b)
