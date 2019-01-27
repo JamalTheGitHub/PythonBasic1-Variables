@@ -18,9 +18,9 @@ First thing first, create a file called called whatever you want it to be called
 
     print('Hello Python')
 
-Notice that the single quotes and double quotes will yield the same output. To do this press "Ctrl", "Alt" and "n" on the keyboard simultaneously. This will use the "Code Runner" extension and run the code. If you want to do it manually, You could type in the terminal python <filename>.py provided that you are in the directory where your file was created and saved.
+Notice that the single quotes and double quotes will yield the same output. To do this press "Ctrl", "Alt" and "n" on the keyboard simultaneously. This will use the "Code Runner" extension and run the code. If you want to do it manually, You could type in the terminal <strong>python PythonTutorial.py</strong> provided that you are in the directory where your file was created and saved.
 
-Besides that, you can also use the same function to print integer like;
+Besides that, you can also use the same function to print an integer like;
 
     print(3)
 
@@ -34,7 +34,7 @@ In which it will yield the integer "3". Now that We have understood the simple c
 
     a = 6
 
-"a" is a <strong>variable</strong>. "6" is an integer that is assigned to that variable, hence <strong>a = 6</strong>. Now if we use to the print function to print a like below,
+"a" is a <strong>variable</strong>. "6" is an integer that is assigned to that variable, hence <strong>a = 6</strong>. Now if we use to the print function to print "a" like below,
 
     print(a)
 
@@ -66,7 +66,7 @@ Upon running the code, we can see that the value of 1 is assigned to two <strong
     print(c)
     print(d)
 
-Now what happens when We run the code? Well, notice previously that We found out that the same value can be assigned to more than 1 variable. However the same cannot be said to a <strong>variable</strong>. A <strong>variable</strong> can only be assigned to <strong>one thing</strong>. Therefore, if the same <strong>variable</strong> is to be assigned to something new, it will remove it's attachment to whatever that it was assigned to previously and attached itself to a new one just like the case of the above example, we can see that <strong>b</strong> is equals to 2 and then <strong>b</strong> is equals to 1. The same can be said to the <strong>variable c</strong>.
+Now what happens when We run the code? Well, notice previously that We found out that the same value can be assigned to more than 1 variable. However the same cannot be said to a <strong>variable</strong>. A <strong>variable</strong> can only be assigned to <strong>one thing</strong>. Therefore, if the same <strong>variable</strong> is to be assigned to something new, it will remove it's attachment from whatever that it was assigned to previously and attached itself to a new one just like the case of the above example, we can see that <strong>b</strong> is equals to 2 and then <strong>b</strong> is equals to 1. The same can be said to the <strong>variable c</strong>.
 
 Well that was pretty interesting and all but the question is, what happens if you try to print a <strong>variable</strong> that does not exist? Let's try it out!
 
