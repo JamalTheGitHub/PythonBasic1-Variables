@@ -2,8 +2,8 @@
 
 Prerequisite => From this tutorial onwards, it is expected that you have the following extensions in your Visual Studio Code;
 
-<strong>Code Runner</strong>
-<strong>Python</strong>
+1)<strong>Code Runner</strong>
+2)<strong>Python</strong>
 
 If you want to know more on how to get Python on Visual Studio Code, google it.
 
